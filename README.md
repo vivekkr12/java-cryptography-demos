@@ -2,6 +2,8 @@
 
 This project contains samples on how to do cryptographic operations in Java using the [BouncyCastle](https://www.bouncycastle.org/) libray.
 
+*These classes are not actual tests, its just a convinient way to run individual methods in an IDE*
+
 This is what you can expect to find the included classes:
 
 1. [`ProvidersTest`](src/test/java/com/here/had/webapps/crypto/ProvidersTest.java): A demo of how JCE uses crypto providers and how external providers can be added
